@@ -4,6 +4,8 @@
 using namespace std;
 vector<int> v;
 int main() {
+    cin.tie(NULL);
+    ios::sync_with_stdio(false);
     int n;
     cin >> n;
     int ans = 0;
